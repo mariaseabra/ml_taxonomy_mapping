@@ -1,0 +1,177 @@
+src_pt,src_cat,src_sc,count,status,ent_pt_2,ent_cat_2,ent_sc_2,notes,combined
+body care,,,1280,,bath and body,hair care,,,body care  
+body care,bath  body accessories,bath sponges gloves  brushes,41,,bath and body,,,counts from dataset,body care bath  body accessories bath sponges gloves  brushes
+body care,bath  body accessories,hair towels  shower caps,33,,bath and body,hair care,,,body care bath  body accessories hair towels  shower caps
+body care,bath  body accessories,trend  fashion accessories,19,,bath and body,hair accessories,,,body care bath  body accessories trend  fashion accessories
+body care,bath  shower,bath bombs  shower steamers,38,,bath and body,bath products,bath bombs  salts,,body care bath  shower bath bombs  shower steamers
+body care,bath  shower,body scrubs  exfoliants,110,,bath and body,hair care,,,body care bath  shower body scrubs  exfoliants
+body care,bath  shower,bubble bath  soaks,55,,bath and body,bath products,bubble bath,,body care bath  shower bubble bath  soaks
+body care,bath  shower,shower gel  body wash,148,,bath and body,skin care,bath soaps and body wash,,body care bath  shower shower gel  body wash
+body care,body mist  hair mist,,62,,bath and body,hair care,,,body care body mist  hair mist 
+body care,body moisturizers,body butters,40,,bath and body,hair care,,,body care body moisturizers body butters
+body care,body moisturizers,body lotion  creams,176,,bath and body,skin care,lotion and balm,,body care body moisturizers body lotion  creams
+body care,body moisturizers,body serums  oils,69,,bath and body,hair care,,,body care body moisturizers body serums  oils
+body care,hand  foot care,hand cream  foot cream,70,,toys,backyard  playground toys,hand balls,,body care hand  foot care hand cream  foot cream
+body care,hand  foot care,hand  foot treatment,38,,toys,backyard  playground toys,hand balls,,body care hand  foot care hand  foot treatment
+body care,hand  foot care,hand soap  sanitizers,24,,toys,backyard  playground toys,hand balls,,body care hand  foot care hand soap  sanitizers
+body care,hand  foot care,manicure  pedicure tools,0,,bath and body,hair care,,,body care hand  foot care manicure  pedicure tools
+body care,mother  baby,,4,,bath and body,hair care,,,body care mother  baby 
+body care,self care  wellness,aromatherapy,8,,bath and body,hair care,,,body care self care  wellness aromatherapy
+body care,self care  wellness,deodorant,67,,bath and body,hair care,,,body care self care  wellness deodorant
+body care,self care  wellness,down there care,54,,bath and body,hair care,,,body care self care  wellness down there care
+body care,self care  wellness,hair removal,136,,bath and body,hair care,,,body care self care  wellness hair removal
+body care,self care  wellness,oral care,41,,bath and body,health and medicine,oral care,,body care self care  wellness oral care
+body care,self care  wellness,sleep essentials,36,,bath and body,hair care,,,body care self care  wellness sleep essentials
+body care,self care  wellness,spa essentials,11,,bath and body,hair care,,,body care self care  wellness spa essentials
+body care,self care  wellness,supplements,0,,bath and body,hair care,,,body care self care  wellness supplements
+body care,self care  wellness,body treatments,0,,bath and body,hair care,,,body care self care  wellness body treatments
+body care,suncare,after sun care,0,,bath and body,hair care,,,body care suncare after sun care
+body care,suncare,self tanning  bronzing,0,,bath and body,hair care,,,body care suncare self tanning  bronzing
+body care,suncare,sunscreen,0,,bath and body,skin care,sunscreen,,body care suncare sunscreen
+fragrance,,,1076,,accessories,,,,fragrance  
+fragrance,candles  home fragrance,,150,,home,party goods and supplies,cake toppers and candles,,fragrance candles  home fragrance 
+fragrance,fragrance gift sets,cologne gift sets,21,,office supplies,gift wrap  bags,,,fragrance fragrance gift sets cologne gift sets
+fragrance,fragrance gift sets,perfume gift sets,57,,office supplies,gift wrap  bags,,,fragrance fragrance gift sets perfume gift sets
+fragrance,mens fragrance,bath  shower,7,,bath and body,bath products,bubble bath,,fragrance mens fragrance bath  shower
+fragrance,mens fragrance,cologne,183,,accessories,,,,fragrance mens fragrance cologne
+fragrance,mens fragrance,aftershave,12,,accessories,,,,fragrance mens fragrance aftershave
+fragrance,womens fragrance,bath  shower,16,,bath and body,bath products,bubble bath,,fragrance womens fragrance bath  shower
+fragrance,womens fragrance,body lotions,19,,bath and body,,,,fragrance womens fragrance body lotions
+fragrance,womens fragrance,body mist  hair mist,0,,bath and body,hair accessories,hair brushes,,fragrance womens fragrance body mist  hair mist
+fragrance,womens fragrance,perfume,408,,accessories,,,,fragrance womens fragrance perfume
+fragrance,womens fragrance,rollerballs  purse spray,203,,accessories,,,,fragrance womens fragrance rollerballs  purse spray
+hair care,,,3515,,bath and body,hair care,,,hair care  
+hair care,brushes  combs,,0,,bath and body,hair care,combs and brushes,,hair care brushes  combs 
+hair care,hair color,hair color  bleach,39,,bath and body,hair accessories,hair brushes,,hair care hair color hair color  bleach
+hair care,hair color,root touch up,20,,bath and body,hair care,,,hair care hair color root touch up
+hair care,hair color,trend color,11,,crafts  school supplies,painting,water color,,hair care hair color trend color
+hair care,kids haircare,,50,,bath and body,hair care,,,hair care kids haircare 
+hair care,shampoo  conditioner,cowash,19,,bath and body,hair care,conditioner,,hair care shampoo  conditioner cowash
+hair care,shampoo  conditioner,conditioner,456,,bath and body,hair care,conditioner,,hair care shampoo  conditioner conditioner
+hair care,shampoo  conditioner,dry shampoo,114,,bath and body,hair care,shampoo,,hair care shampoo  conditioner dry shampoo
+hair care,shampoo  conditioner,leavein conditioner,93,,bath and body,hair care,conditioner,,hair care shampoo  conditioner leavein conditioner
+hair care,shampoo  conditioner,shampoo,526,,bath and body,hair care,shampoo,,hair care shampoo  conditioner shampoo
+hair care,styling products,curl enhancing,187,,bath and body,hair care,,,hair care styling products curl enhancing
+hair care,styling products,gloss  shine,96,,bath and body,hair care,,,hair care styling products gloss  shine
+hair care,styling products,hairspray,136,,bath and body,hair care,,,hair care styling products hairspray
+hair care,styling products,heat protectant,88,,bath and body,hair care,,,hair care styling products heat protectant
+hair care,styling products,smoothing,126,,bath and body,hair care,,,hair care styling products smoothing
+hair care,styling products,volume  texture,214,,bath and body,hair care,,,hair care styling products volume  texture
+hair care,styling products,wax  pomade,87,,bath and body,hair care,,,hair care styling products wax  pomade
+hair care,treatment,hair thinning  hair loss,70,,bath and body,hair accessories,hair brushes,,hair care treatment hair thinning  hair loss
+hair care,treatment,leavein treatment,137,,bath and body,health and medicine,treatment kits,,hair care treatment leavein treatment
+hair care,treatment,masks,179,,bath and body,hair care,,,hair care treatment masks
+hair care,treatment,oils  serums,160,,bath and body,hair care,,,hair care treatment oils  serums
+hair care,treatment,scalp care,136,,bath and body,hair care,,,hair care treatment scalp care
+hair care,accessories,clips  bobby pins,219,,bath and body,hair care,,,hair care accessories clips  bobby pins
+hair care,accessories,elastics,0,,bath and body,hair care,,,hair care accessories elastics
+hair care,accessories,hair cutting tools,16,,bath and body,hair accessories,hair brushes,,hair care accessories hair cutting tools
+hair care,accessories,hair extensions,6,,bath and body,hair accessories,hair brushes,,hair care accessories hair extensions
+hair care,accessories,headbands,0,,bath and body,hair accessories,headbands,,hair care accessories headbands
+hair care,accessories,styling accessories,0,,accessories,,,,hair care accessories styling accessories
+hair care,hair styling tools,curling iron  stylers,110,,bath and body,hair care,,,hair care hair styling tools curling iron  stylers
+hair care,hair styling tools,flat irons,67,,bath and body,hair care,,,hair care hair styling tools flat irons
+hair care,hair styling tools,hair dryers,74,,bath and body,hair accessories,hair brushes,,hair care hair styling tools hair dryers
+hair care,hair styling tools,hair rollers,38,,bath and body,hair accessories,hair brushes,,hair care hair styling tools hair rollers
+hair care,hair styling tools,hot brushes,41,,bath and body,hair accessories,hair brushes,,hair care hair styling tools hot brushes
+makeup  nails,,,5161,,toys,costume accessories,play makeup,,makeup  nails  
+makeup  nails,body makeup,,29,,toys,costume accessories,play makeup,,makeup  nails body makeup 
+makeup  nails,eyes,eye primer  base,34,,toys,costume accessories,play makeup,,makeup  nails eyes eye primer  base
+makeup  nails,eyes,eyebrows,249,,toys,costume accessories,play makeup,,makeup  nails eyes eyebrows
+makeup  nails,eyes,eyelashes,370,,toys,costume accessories,play makeup,,makeup  nails eyes eyelashes
+makeup  nails,eyes,eyeliner,275,,toys,costume accessories,play makeup,,makeup  nails eyes eyeliner
+makeup  nails,eyes,eyeshadow,179,,toys,costume accessories,play makeup,,makeup  nails eyes eyeshadow
+makeup  nails,eyes,eyeshadow palettes,142,,toys,costume accessories,play makeup,,makeup  nails eyes eyeshadow palettes
+makeup  nails,eyes,lash primer  serums,61,,toys,costume accessories,play makeup,,makeup  nails eyes lash primer  serums
+makeup  nails,eyes,mascara,346,,toys,costume accessories,play makeup,,makeup  nails eyes mascara
+makeup  nails,face,bb  cc creams,34,,toys,costume accessories,play makeup,,makeup  nails face bb  cc creams
+makeup  nails,face,blush,188,,toys,costume accessories,play makeup,,makeup  nails face blush
+makeup  nails,face,bronzer,115,,toys,costume accessories,play makeup,,makeup  nails face bronzer
+makeup  nails,face,color correcting,28,,toys,costume accessories,play makeup,,makeup  nails face color correcting
+makeup  nails,face,concealer,122,,toys,costume accessories,play makeup,,makeup  nails face concealer
+makeup  nails,face,contouring,36,,toys,costume accessories,play makeup,,makeup  nails face contouring
+makeup  nails,face,face primer,247,,bath and body,skin care,face wash,,makeup  nails face face primer
+makeup  nails,face,foundation,168,,toys,costume accessories,play makeup,,makeup  nails face foundation
+makeup  nails,face,highlighter,184,,toys,costume accessories,play makeup,,makeup  nails face highlighter
+makeup  nails,face,setting spray  powder,219,,toys,costume accessories,play makeup,,makeup  nails face setting spray  powder
+makeup  nails,face,makeup remover,57,,toys,costume accessories,play makeup,,makeup  nails face makeup remover
+makeup  nails,face,tinted moisturizer,38,,toys,costume accessories,play makeup,,makeup  nails face tinted moisturizer
+makeup  nails,lips,lip balms  treatments,0,,toys,costume accessories,play makeup,,makeup  nails lips lip balms  treatments
+makeup  nails,lips,lip gloss,149,,toys,costume accessories,play makeup,,makeup  nails lips lip gloss
+makeup  nails,lips,lip liner,82,,toys,costume accessories,play makeup,,makeup  nails lips lip liner
+makeup  nails,lips,lip oil,34,,toys,costume accessories,play makeup,,makeup  nails lips lip oil
+makeup  nails,lips,lip plumpers,45,,toys,costume accessories,play makeup,,makeup  nails lips lip plumpers
+makeup  nails,lips,lip stain,25,,toys,costume accessories,play makeup,,makeup  nails lips lip stain
+makeup  nails,lips,lipstick,212,,bath and body,beauty products,lipstick and makeup,,makeup  nails lips lipstick
+makeup  nails,makeup bags  organizers,,66,,toys,costume accessories,play makeup,,makeup  nails makeup bags  organizers 
+makeup  nails,makeup palettes,,164,,toys,costume accessories,play makeup,,makeup  nails makeup palettes 
+makeup  nails,nails,gel nail polish,32,,toys,costume accessories,play makeup,,makeup  nails nails gel nail polish
+makeup  nails,nails,manicure  pedicure tools,79,,toys,costume accessories,play makeup,,makeup  nails nails manicure  pedicure tools
+makeup  nails,nails,nail art  design,9,,home,decor,art,,makeup  nails nails nail art  design
+makeup  nails,nails,nail care,150,,toys,costume accessories,play makeup,,makeup  nails nails nail care
+makeup  nails,nails,nail polish,74,,toys,costume accessories,play makeup,,makeup  nails nails nail polish
+makeup  nails,nails,nail polish stickers,84,,crafts  school supplies,stickers,,,makeup  nails nails nail polish stickers
+makeup  nails,nails,press on nails,104,,toys,costume accessories,play makeup,,makeup  nails nails press on nails
+makeup  nails,nails,top  base coats,57,,toys,costume accessories,play makeup,,makeup  nails nails top  base coats
+makeup  nails,makeup brushes  tools,blotting papers,5,,toys,costume accessories,play makeup,,makeup  nails makeup brushes  tools blotting papers
+makeup  nails,makeup brushes  tools,brow  lash tools,85,,toys,costume accessories,play makeup,,makeup  nails makeup brushes  tools brow  lash tools
+makeup  nails,makeup brushes  tools,brush cleaner,26,,toys,costume accessories,play makeup,,makeup  nails makeup brushes  tools brush cleaner
+makeup  nails,makeup brushes  tools,brush sets,74,,toys,costume accessories,play makeup,,makeup  nails makeup brushes  tools brush sets
+makeup  nails,makeup brushes  tools,makeup brushes,340,,toys,costume accessories,play makeup,,makeup  nails makeup brushes  tools makeup brushes
+makeup  nails,makeup brushes  tools,mirrors,21,,toys,costume accessories,play makeup,,makeup  nails makeup brushes  tools mirrors
+makeup  nails,makeup brushes  tools,sponges  applicators,123,,toys,costume accessories,play makeup,,makeup  nails makeup brushes  tools sponges  applicators
+skin care,,,3711,,bath and body,skin care,,,skin care  
+skin care,supplements,,83,,bath and body,skin care,,,skin care supplements 
+skin care,suncare,after sun care,9,,bath and body,skin care,,,skin care suncare after sun care
+skin care,suncare,selftanning  bronzing,164,,bath and body,skin care,,,skin care suncare selftanning  bronzing
+skin care,suncare,sunscreen,249,,bath and body,skin care,sunscreen,,skin care suncare sunscreen
+skin care,cleansers,cleansing balms  oils,60,,bath and body,skin care,,,skin care cleansers cleansing balms  oils
+skin care,cleansers,cleansing exfoliators,86,,bath and body,skin care,,,skin care cleansers cleansing exfoliators
+skin care,cleansers,face wash,348,,bath and body,skin care,face wash,,skin care cleansers face wash
+skin care,cleansers,face wipes,21,,bath and body,skin care,face wash,,skin care cleansers face wipes
+skin care,cleansers,makeup remover,0,,bath and body,skin care,,,skin care cleansers makeup remover
+skin care,cleansers,toner,117,,bath and body,skin care,,,skin care cleansers toner
+skin care,cleansers,cleansing brushes,19,,bath and body,skin care,,,skin care cleansers cleansing brushes
+skin care,eye treatments,eye cream,175,,apparel,lounge and sleepwear,eye masks,,skin care eye treatments eye cream
+skin care,eye treatments,eye masks,71,,apparel,lounge and sleepwear,eye masks,,skin care eye treatments eye masks
+skin care,eye treatments,eye serums,66,,apparel,lounge and sleepwear,eye masks,,skin care eye treatments eye serums
+skin care,moisturizers,lip balms  treatments,339,,bath and body,skin care,,,skin care moisturizers lip balms  treatments
+skin care,moisturizers,face mists  essences,71,,bath and body,skin care,face wash,,skin care moisturizers face mists  essences
+skin care,moisturizers,face moisturizer,587,,bath and body,skin care,face wash,,skin care moisturizers face moisturizer
+skin care,moisturizers,face oils,62,,bath and body,skin care,face wash,,skin care moisturizers face oils
+skin care,moisturizers,neck cream,26,,bath and body,skin care,,,skin care moisturizers neck cream
+skin care,moisturizers,night cream,80,,bath and body,skin care,,,skin care moisturizers night cream
+skin care,moisturizers,tinted moisturizer,0,,bath and body,skin care,,,skin care moisturizers tinted moisturizer
+skin care,treatment  serums,acne  blemish treatments,180,,bath and body,skin care,,,skin care treatment  serums acne  blemish treatments
+skin care,treatment  serums,body treatments,66,,bath and body,skin care,,,skin care treatment  serums body treatments
+skin care,treatment  serums,face masks,134,,bath and body,skin care,face wash,,skin care treatment  serums face masks
+skin care,treatment  serums,face peels  exfoliators,79,,bath and body,skin care,face wash,,skin care treatment  serums face peels  exfoliators
+skin care,treatment  serums,face serums,503,,bath and body,skin care,face wash,,skin care treatment  serums face serums
+skin care,treatment  serums,sheet masks,53,,bath and body,skin care,,,skin care treatment  serums sheet masks
+skin care,skincare tools,antiaging,43,,bath and body,skin care,,,skin care skincare tools antiaging
+skin care,skincare tools,cleansing brushes,0,,bath and body,skin care,,,skin care skincare tools cleansing brushes
+skin care,skincare tools,facial rollers,20,,bath and body,skin care,,,skin care skincare tools facial rollers
+tools  brushes,,,475,,crafts  school supplies,painting,paint brushes,,tools  brushes  
+tools  brushes,hair brushes  combs,,234,,bath and body,hair care,combs and brushes,,tools  brushes hair brushes  combs 
+tools  brushes,accessories,clips  bobby pins,0,,baby gear,diapering,diaper pins,,tools  brushes accessories clips  bobby pins
+tools  brushes,accessories,elastics,116,,bath and body,hair accessories,hair brushes,,tools  brushes accessories elastics
+tools  brushes,accessories,hair cutting tools,0,,crafts  school supplies,cutting tools,,,tools  brushes accessories hair cutting tools
+tools  brushes,accessories,hair extensions,0,,bath and body,hair accessories,hair brushes,,tools  brushes accessories hair extensions
+tools  brushes,accessories,headbands,100,,bath and body,hair accessories,headbands,,tools  brushes accessories headbands
+tools  brushes,accessories,styling accessories,9,,accessories,,,,tools  brushes accessories styling accessories
+tools  brushes,hair removal tools,,16,,bath and body,hair accessories,hair brushes,,tools  brushes hair removal tools 
+tools  brushes,hair styling tools,curling irons  stylers,0,,bath and body,hair accessories,hair brushes,,tools  brushes hair styling tools curling irons  stylers
+tools  brushes,hair styling tools,flat irons,0,,bath and body,hair accessories,hair brushes,,tools  brushes hair styling tools flat irons
+tools  brushes,hair styling tools,hair dryers,0,,bath and body,hair accessories,hair brushes,,tools  brushes hair styling tools hair dryers
+tools  brushes,hair styling tools,hair rollers,0,,bath and body,hair accessories,hair brushes,,tools  brushes hair styling tools hair rollers
+tools  brushes,hair styling tools,hot brushes,0,,bath and body,hair accessories,hair brushes,,tools  brushes hair styling tools hot brushes
+tools  brushes,makeup brushes  tools,blotting papers,0,,crafts  school supplies,painting,paint brushes,,tools  brushes makeup brushes  tools blotting papers
+tools  brushes,makeup brushes  tools,brow  lash tools,0,,crafts  school supplies,measuring tools,,,tools  brushes makeup brushes  tools brow  lash tools
+tools  brushes,makeup brushes  tools,brush cleaner,0,,crafts  school supplies,painting,paint brushes,,tools  brushes makeup brushes  tools brush cleaner
+tools  brushes,makeup brushes  tools,brush sets,0,,crafts  school supplies,painting,paint brushes,,tools  brushes makeup brushes  tools brush sets
+tools  brushes,makeup brushes  tools,makeup brushes,0,,crafts  school supplies,painting,paint brushes,,tools  brushes makeup brushes  tools makeup brushes
+tools  brushes,makeup brushes  tools,mirrors,0,,crafts  school supplies,painting,paint brushes,,tools  brushes makeup brushes  tools mirrors
+tools  brushes,makeup brushes  tools,sponges  applicators,0,,crafts  school supplies,painting,paint brushes,,tools  brushes makeup brushes  tools sponges  applicators
+tools  brushes,skincare tools,antiaging,0,,crafts  school supplies,measuring tools,,,tools  brushes skincare tools antiaging
+tools  brushes,skincare tools,cleansing brushes,0,,crafts  school supplies,painting,paint brushes,,tools  brushes skincare tools cleansing brushes
+tools  brushes,skincare tools,facial rollers,0,,crafts  school supplies,measuring tools,,,tools  brushes skincare tools facial rollers

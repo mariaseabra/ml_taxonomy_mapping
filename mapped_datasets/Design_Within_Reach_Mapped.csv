@@ -1,0 +1,307 @@
+src_pt,src_cat,src_sc,count,status,ent_pt_2,ent_cat_2,ent_sc_2,notes,combined
+bed  bath,,,131.0,,home,safety,bed rails,,bed  bath  
+bed  bath,bathroom decor  accessories,floor mats,3.0,,home,safety,bed rails,,bed  bath bathroom decor  accessories floor mats
+bed  bath,bathroom decor  accessories,hanging racks  hooks,0.0,,home,safety,bed rails,,bed  bath bathroom decor  accessories hanging racks  hooks
+bed  bath,bathroom decor  accessories,mirrors,1.0,,home,decor,mirrors,,bed  bath bathroom decor  accessories mirrors
+bed  bath,bathroom decor  accessories,step stools,0.0,,home,safety,bed rails,,bed  bath bathroom decor  accessories step stools
+bed  bath,bathroom decor  accessories,storage  organization,1.0,,home,organization,,,bed  bath bathroom decor  accessories storage  organization
+bed  bath,bathroom decor  accessories,towels,6.0,,bath and body,towels,bath towels,,bed  bath bathroom decor  accessories towels
+bed  bath,bedding  pillows,bedding  pillows,53.0,,home,bedding and linen,pillows,,bed  bath bedding  pillows bedding  pillows
+bed  bath,bedding  pillows,mattresses,7.0,,home,bedding and linen,mattresses,,bed  bath bedding  pillows mattresses
+bed  bath,bedding  pillows,pillows  throws,16.0,,home,bedding and linen,pillows,,bed  bath bedding  pillows pillows  throws
+bed  bath,bedroom furniture,beds  headboards,0.0,,home,furniture,beds,,bed  bath bedroom furniture beds  headboards
+bed  bath,bedroom furniture,bedside tables  nightstands,0.0,,home,furniture,changing tables,,bed  bath bedroom furniture bedside tables  nightstands
+bed  bath,bedroom furniture,benches  stools,0.0,,home,safety,bed rails,,bed  bath bedroom furniture benches  stools
+bed  bath,bedroom furniture,chests dressers  vanities,0.0,,home,furniture,dressers,,bed  bath bedroom furniture chests dressers  vanities
+bed  bath,bedroom furniture,coat racks  umbrella stands,0.0,,home,safety,bed rails,,bed  bath bedroom furniture coat racks  umbrella stands
+bed  bath,bedroom furniture,coffee tables,0.0,,home,furniture,changing tables,,bed  bath bedroom furniture coffee tables
+bed  bath,bedroom furniture,credenzas buffets  sideboards,0.0,,home,safety,bed rails,,bed  bath bedroom furniture credenzas buffets  sideboards
+bed  bath,bedroom furniture,decor,0.0,,home,safety,bed rails,,bed  bath bedroom furniture decor
+bed  bath,bedroom furniture,entryway accessories,0.0,,home,safety,bed rails,,bed  bath bedroom furniture entryway accessories
+bed  bath,bedroom furniture,mattresses pillows  bedding,0.0,,home,bedding and linen,mattresses,,bed  bath bedroom furniture mattresses pillows  bedding
+bed  bath,bedroom furniture,mirrors,0.0,,home,decor,mirrors,,bed  bath bedroom furniture mirrors
+bed  bath,bedroom furniture,pillows  throws,0.0,,home,decor,decorative pillows and throws,,bed  bath bedroom furniture pillows  throws
+bed  bath,bedroom furniture,shelves  bookcases,0.0,,home,furniture,bookcases and cubbies,,bed  bath bedroom furniture shelves  bookcases
+bed  bath,bedroom furniture,side  end tables,0.0,,home,furniture,side tables,,bed  bath bedroom furniture side  end tables
+bed  bath,bedroom furniture,storage accessories,0.0,,home,furniture,storage,,bed  bath bedroom furniture storage accessories
+bed  bath,bedroom furniture,table  desk lamps,0.0,,home,safety,bed rails,,bed  bath bedroom furniture table  desk lamps
+bed  bath,bedroom lighting,,44.0,,home,decor,lighting,,bed  bath bedroom lighting 
+bed  bath,mirrors,,,,home,decor,mirrors,,bed  bath mirrors 
+decor,,,2179.0,,home,decor,,,decor  
+decor,art,,532.0,,home,decor,art,,decor art 
+decor,fireplace,,20.0,,home,decor,,,decor fireplace 
+decor,home accents,art,0.0,,home,decor,art,,decor home accents art
+decor,home accents,book storage  organization,0.0,,home,organization,,,decor home accents book storage  organization
+decor,home accents,books,17.0,,home,decor,,,decor home accents books
+decor,home accents,boxes baskets  crates,0.0,,home,decor,,,decor home accents boxes baskets  crates
+decor,home accents,candles  candleholders,16.0,,home,decor,,,decor home accents candles  candleholders
+decor,home accents,clocks,0.0,,home,decor,,,decor home accents clocks
+decor,home accents,decorative accessories,36.0,,home,decor,decorative pillows and throws,,decor home accents decorative accessories
+decor,home accents,office accessories,0.0,,home,decor,,,decor home accents office accessories
+decor,home accents,outdoor accessories,2.0,,home,decor,,,decor home accents outdoor accessories
+decor,home accents,planters  pots,3.0,,home,decor,,,decor home accents planters  pots
+decor,home accents,tabletop accessories,5.0,,home,decor,tabletop,,decor home accents tabletop accessories
+decor,home accents,trays  catchalls,3.0,,home,decor,,,decor home accents trays  catchalls
+decor,home accents,vases,19.0,,home,decor,,,decor home accents vases
+decor,home organization,book storage  organization,7.0,,home,organization,,,decor home organization book storage  organization
+decor,home organization,entryway storage  organization,3.0,,home,organization,,,decor home organization entryway storage  organization
+decor,home organization,wallmounted organization,12.0,,home,organization,,,decor home organization wallmounted organization
+decor,mirrors,,60.0,,home,decor,mirrors,,decor mirrors 
+decor,office accessories,boxes baskets  crates,0.0,,home,decor,,,decor office accessories boxes baskets  crates
+decor,office accessories,credenzas  sideboards,0.0,,home,decor,,,decor office accessories credenzas  sideboards
+decor,office accessories,entryway storage  organization,3.0,,office supplies,desk organization,,,decor office accessories entryway storage  organization
+decor,office accessories,file storage,6.0,,office supplies,misc office supplies,file folders,,decor office accessories file storage
+decor,office accessories,gaming accessories,4.0,,accessories,,,,decor office accessories gaming accessories
+decor,office accessories,miscellaneous accessories,1.0,,accessories,,,,decor office accessories miscellaneous accessories
+decor,office accessories,office  file storage,3.0,,office supplies,misc office supplies,file folders,,decor office accessories office  file storage
+decor,office accessories,office accessories,32.0,,office supplies,,,,decor office accessories office accessories
+decor,office accessories,side tables,1.0,,home,furniture,side tables,,decor office accessories side tables
+decor,office accessories,trays  catchalls,0.0,,home,decor,,,decor office accessories trays  catchalls
+decor,pillows  throws,,602.0,,home,decor,decorative pillows and throws,,decor pillows  throws 
+decor,planters  pots,,50.0,,home,decor,,,decor planters  pots 
+decor,tabletop  bar,barware  bar tools,30.0,,home,decor,tabletop,,decor tabletop  bar barware  bar tools
+decor,tabletop  bar,candles  candleholders,7.0,,home,decor,tabletop,,decor tabletop  bar candles  candleholders
+decor,tabletop  bar,dinnerware,51.0,,home,decor,tabletop,,decor tabletop  bar dinnerware
+decor,tabletop  bar,flatware,9.0,,home,decor,tabletop,,decor tabletop  bar flatware
+decor,tabletop  bar,glassware,49.0,,home,decor,tabletop,,decor tabletop  bar glassware
+decor,tabletop  bar,kitchen  cooking accessories,11.0,,home,decor,tabletop,,decor tabletop  bar kitchen  cooking accessories
+decor,tabletop  bar,serveware,35.0,,home,decor,tabletop,,decor tabletop  bar serveware
+decor,tabletop  bar,table linens,15.0,,home,decor,tabletop,,decor tabletop  bar table linens
+decor,tabletop  bar,trays  catchalls,24.0,,home,decor,tabletop,,decor tabletop  bar trays  catchalls
+decor,tabletop  bar,vases,4.0,,home,decor,tabletop,,decor tabletop  bar vases
+decor,outdoor accessories,fire pits  patio heaters,5.0,,home,decor,,,decor outdoor accessories fire pits  patio heaters
+decor,outdoor accessories,outdoor accessories,124.0,,accessories,,,,decor outdoor accessories outdoor accessories
+decor,outdoor accessories,outdoor seat pads cushions  pillows,102.0,,home,decor,decorative pillows and throws,,decor outdoor accessories outdoor seat pads cushions  pillows
+decor,outdoor accessories,outdoor planters  pots,32.0,,home,decor,,,decor outdoor accessories outdoor planters  pots
+decor,outdoor accessories,outdoor decor,11.0,,home,decor,,,decor outdoor accessories outdoor decor
+decor,home organization,office organization  storage,46.0,,home,organization,,,decor home organization office organization  storage
+decor,outdoor accessories,outdoor mats,14.0,,home,decor,,,decor outdoor accessories outdoor mats
+decor,outdoor accessories,bathroom accessories,2.0,,accessories,,,,decor outdoor accessories bathroom accessories
+decor,home organization,hanging racks  hooks,51.0,,home,organization,,,decor home organization hanging racks  hooks
+decor,home organization,boxes baskets  crates,108.0,,home,organization,baskets and bins,,decor home organization boxes baskets  crates
+decor,home organization,step stools,4.0,,home,organization,,,decor home organization step stools
+decor,home organization,trays  catchalls,3.0,,home,organization,,,decor home organization trays  catchalls
+decor,home organization,folding screens  room dividers,3.0,,home,organization,,,decor home organization folding screens  room dividers
+decor,home organization,freestanding shelving  storage,2.0,,home,organization,,,decor home organization freestanding shelving  storage
+furniture,,,9558.0,,home,furniture,,,furniture  
+furniture,entryway furniture,benches  stools,55.0,,home,furniture,,,furniture entryway furniture benches  stools
+furniture,entryway furniture,coat racks  umbrella stands,13.0,,home,furniture,,,furniture entryway furniture coat racks  umbrella stands
+furniture,entryway furniture,coffee tables,2.0,,home,furniture,,,furniture entryway furniture coffee tables
+furniture,entryway furniture,console tables,39.0,,home,furniture,,,furniture entryway furniture console tables
+furniture,entryway furniture,credenzas buffets  sideboards,3.0,,home,furniture,,,furniture entryway furniture credenzas buffets  sideboards
+furniture,entryway furniture,decor,1.0,,home,furniture,,,furniture entryway furniture decor
+furniture,entryway furniture,entryway accessories,0.0,,home,furniture,,,furniture entryway furniture entryway accessories
+furniture,entryway furniture,media storage,5.0,,home,furniture,storage,,furniture entryway furniture media storage
+furniture,entryway furniture,mirrors,13.0,,home,furniture,,,furniture entryway furniture mirrors
+furniture,entryway furniture,outdoor,2.0,,home,furniture,,,furniture entryway furniture outdoor
+furniture,entryway furniture,seat pads cushions  slipcovers,0.0,,home,furniture,,,furniture entryway furniture seat pads cushions  slipcovers
+furniture,entryway furniture,shelves  bookcases,1.0,,home,furniture,bookcases and cubbies,,furniture entryway furniture shelves  bookcases
+furniture,entryway furniture,side  end tables,2.0,,home,furniture,side tables,,furniture entryway furniture side  end tables
+furniture,entryway furniture,storage accessories,1.0,,home,furniture,storage,,furniture entryway furniture storage accessories
+furniture,entryway furniture,wall storage  coat racks,0.0,,home,furniture,storage,,furniture entryway furniture wall storage  coat racks
+furniture,gaming furniture,,182.0,,home,furniture,,,furniture gaming furniture 
+furniture,kitchen  dining room furniture,accessories  decor,4.0,,home,furniture,,,furniture kitchen  dining room furniture accessories  decor
+furniture,kitchen  dining room furniture,adjustable height stools,14.0,,home,furniture,,,furniture kitchen  dining room furniture adjustable height stools
+furniture,kitchen  dining room furniture,bar carts  trolleys,15.0,,home,furniture,,,furniture kitchen  dining room furniture bar carts  trolleys
+furniture,kitchen  dining room furniture,café tables,10.0,,home,furniture,,,furniture kitchen  dining room furniture café tables
+furniture,kitchen  dining room furniture,credenzas  sideboards,0.0,,home,furniture,,,furniture kitchen  dining room furniture credenzas  sideboards
+furniture,kitchen  dining room furniture,dining armchairs,559.0,,home,furniture,,,furniture kitchen  dining room furniture dining armchairs
+furniture,kitchen  dining room furniture,dining benches,11.0,,home,furniture,,,furniture kitchen  dining room furniture dining benches
+furniture,kitchen  dining room furniture,dining side chairs,546.0,,home,furniture,side tables,,furniture kitchen  dining room furniture dining side chairs
+furniture,kitchen  dining room furniture,dining stools,241.0,,home,furniture,,,furniture kitchen  dining room furniture dining stools
+furniture,kitchen  dining room furniture,extension  drop leaf tables,10.0,,home,furniture,,,furniture kitchen  dining room furniture extension  drop leaf tables
+furniture,kitchen  dining room furniture,kitchen  dining storage,0.0,,home,furniture,storage,,furniture kitchen  dining room furniture kitchen  dining storage
+furniture,kitchen  dining room furniture,rectangular dining tables,46.0,,home,furniture,,,furniture kitchen  dining room furniture rectangular dining tables
+furniture,kitchen  dining room furniture,round  oval dining tables,49.0,,home,furniture,,,furniture kitchen  dining room furniture round  oval dining tables
+furniture,kitchen  dining room furniture,stacking chairs,55.0,,home,furniture,,,furniture kitchen  dining room furniture stacking chairs
+furniture,kitchen  dining room furniture,step stools,1.0,,home,furniture,,,furniture kitchen  dining room furniture step stools
+furniture,living room furniture,art,0.0,,home,furniture,,,furniture living room furniture art
+furniture,living room furniture,bar  counter stools,127.0,,home,furniture,,,furniture living room furniture bar  counter stools
+furniture,living room furniture,bar carts bar cabinets  trolleys,0.0,,home,furniture,,,furniture living room furniture bar carts bar cabinets  trolleys
+furniture,living room furniture,bedside tables  nightstands,0.0,,home,furniture,,,furniture living room furniture bedside tables  nightstands
+furniture,living room furniture,benches  stools,143.0,,home,furniture,,,furniture living room furniture benches  stools
+furniture,living room furniture,coat racks  umbrella stands,0.0,,home,furniture,,,furniture living room furniture coat racks  umbrella stands
+furniture,living room furniture,coffee tables,191.0,,home,furniture,,,furniture living room furniture coffee tables
+furniture,living room furniture,console tables,7.0,,home,furniture,,,furniture living room furniture console tables
+furniture,living room furniture,credenzas buffets  sideboards,0.0,,home,furniture,,,furniture living room furniture credenzas buffets  sideboards
+furniture,living room furniture,daybeds  sleeper sofas,264.0,,home,furniture,chairs and sofas,,furniture living room furniture daybeds  sleeper sofas
+furniture,living room furniture,decor,103.0,,home,furniture,,,furniture living room furniture decor
+furniture,living room furniture,desks,0.0,,home,furniture,tables and desks,,furniture living room furniture desks
+furniture,living room furniture,dining  side chairs,30.0,,home,furniture,side tables,,furniture living room furniture dining  side chairs
+furniture,living room furniture,entryway accessories,0.0,,home,furniture,,,furniture living room furniture entryway accessories
+furniture,living room furniture,fireplace accessories,2.0,,home,furniture,,,furniture living room furniture fireplace accessories
+furniture,living room furniture,lounge chairs  armchairs,2307.0,,home,furniture,,,furniture living room furniture lounge chairs  armchairs
+furniture,living room furniture,media storage,0.0,,home,furniture,storage,,furniture living room furniture media storage
+furniture,living room furniture,office  file storage,0.0,,home,furniture,storage,,furniture living room furniture office  file storage
+furniture,living room furniture,ottomans,1188.0,,home,furniture,,,furniture living room furniture ottomans
+furniture,living room furniture,outdoor,79.0,,home,furniture,,,furniture living room furniture outdoor
+furniture,living room furniture,outdoor accessories,0.0,,home,furniture,,,furniture living room furniture outdoor accessories
+furniture,living room furniture,pillows  throws,2.0,,home,furniture,,,furniture living room furniture pillows  throws
+furniture,living room furniture,rocking chairs  recliners,101.0,,home,furniture,,,furniture living room furniture rocking chairs  recliners
+furniture,living room furniture,seat pads cushions  slipcovers,6.0,,home,furniture,,,furniture living room furniture seat pads cushions  slipcovers
+furniture,living room furniture,shelves  bookcases,0.0,,home,furniture,bookcases and cubbies,,furniture living room furniture shelves  bookcases
+furniture,living room furniture,side  end tables,143.0,,home,furniture,side tables,,furniture living room furniture side  end tables
+furniture,living room furniture,sofas  sectionals,1653.0,,home,furniture,chairs and sofas,,furniture living room furniture sofas  sectionals
+furniture,living room furniture,storage accessories,14.0,,home,furniture,storage,,furniture living room furniture storage accessories
+furniture,living room furniture,tabletop  bar accessories,8.0,,home,furniture,,,furniture living room furniture tabletop  bar accessories
+furniture,living room furniture,workspace  gaming accessories,1.0,,home,furniture,,,furniture living room furniture workspace  gaming accessories
+furniture,office furniture,armchairs,3.0,,home,furniture,,,furniture office furniture armchairs
+furniture,office furniture,bar carts  trolleys,7.0,,home,furniture,,,furniture office furniture bar carts  trolleys
+furniture,office furniture,bedside lamps,0.0,,home,furniture,,,furniture office furniture bedside lamps
+furniture,office furniture,book storage  organization,2.0,,home,furniture,storage,,furniture office furniture book storage  organization
+furniture,office furniture,boxes baskets  crates,0.0,,home,furniture,,,furniture office furniture boxes baskets  crates
+furniture,office furniture,credenzas  sideboards,21.0,,home,furniture,,,furniture office furniture credenzas  sideboards
+furniture,office furniture,desk  task lamps,0.0,,home,furniture,,,furniture office furniture desk  task lamps
+furniture,office furniture,desks,142.0,,home,furniture,tables and desks,,furniture office furniture desks
+furniture,office furniture,dining armchairs,153.0,,home,furniture,,,furniture office furniture dining armchairs
+furniture,office furniture,entryway storage  organization,0.0,,home,furniture,storage,,furniture office furniture entryway storage  organization
+furniture,office furniture,ergonomic chairs,9.0,,home,furniture,,,furniture office furniture ergonomic chairs
+furniture,office furniture,file storage,8.0,,home,furniture,storage,,furniture office furniture file storage
+furniture,office furniture,freestanding shelving  storage,21.0,,home,furniture,storage,,furniture office furniture freestanding shelving  storage
+furniture,office furniture,gaming accessories,0.0,,home,furniture,,,furniture office furniture gaming accessories
+furniture,office furniture,media storage,1.0,,home,furniture,storage,,furniture office furniture media storage
+furniture,office furniture,miscellaneous accessories,0.0,,home,furniture,,,furniture office furniture miscellaneous accessories
+furniture,office furniture,office  file storage,21.0,,home,furniture,storage,,furniture office furniture office  file storage
+furniture,office furniture,office accessories,0.0,,home,furniture,,,furniture office furniture office accessories
+furniture,office furniture,office chairs,661.0,,home,furniture,,,furniture office furniture office chairs
+furniture,office furniture,office stools,4.0,,home,furniture,,,furniture office furniture office stools
+furniture,office furniture,side chairs,0.0,,home,furniture,side tables,,furniture office furniture side chairs
+furniture,office furniture,side tables,12.0,,home,furniture,side tables,,furniture office furniture side tables
+furniture,office furniture,sittostand desks,24.0,,home,furniture,tables and desks,,furniture office furniture sittostand desks
+furniture,office furniture,stacking chairs,2.0,,home,furniture,,,furniture office furniture stacking chairs
+furniture,office furniture,table lamps,0.0,,home,furniture,,,furniture office furniture table lamps
+furniture,office furniture,trays  catchalls,0.0,,home,furniture,,,furniture office furniture trays  catchalls
+furniture,bedroom furniture,coat racks  umbrella stands,5.0,,home,furniture,,,furniture bedroom furniture coat racks  umbrella stands
+furniture,bedroom furniture,bedside tables  nightstands,53.0,,home,furniture,,,furniture bedroom furniture bedside tables  nightstands
+furniture,bedroom furniture,side  end tables,21.0,,home,furniture,side tables,,furniture bedroom furniture side  end tables
+furniture,bedroom furniture,chests dressers  vanities,5.0,,home,furniture,dressers,,furniture bedroom furniture chests dressers  vanities
+furniture,bedroom furniture,benches  stools,27.0,,home,furniture,,,furniture bedroom furniture benches  stools
+furniture,bedroom furniture,decor,27.0,,home,furniture,,,furniture bedroom furniture decor
+furniture,bedroom furniture,beds  headboards,66.0,,home,furniture,beds,,furniture bedroom furniture beds  headboards
+furniture,bedroom furniture,mattresses pillows  bedding,6.0,,home,furniture,,,furniture bedroom furniture mattresses pillows  bedding
+furniture,bedroom furniture,storage accessories,4.0,,home,furniture,storage,,furniture bedroom furniture storage accessories
+furniture,bedroom furniture,coffee tables,2.0,,home,furniture,,,furniture bedroom furniture coffee tables
+furniture,bedroom furniture,credenzas buffets  sideboards,1.0,,home,furniture,,,furniture bedroom furniture credenzas buffets  sideboards
+furniture,bedroom furniture,mirrors,1.0,,home,furniture,,,furniture bedroom furniture mirrors
+lighting,,,1045.0,,home,decor,lighting,,lighting  
+lighting,ceiling  pendant lamps,flushmount  semiflushmount lighting,13.0,,home,decor,lighting,,lighting ceiling  pendant lamps flushmount  semiflushmount lighting
+lighting,ceiling  pendant lamps,lighting cords  shades,13.0,,home,decor,lighting,,lighting ceiling  pendant lamps lighting cords  shades
+lighting,ceiling  pendant lamps,multilight pendants  chandeliers,58.0,,home,decor,lighting,,lighting ceiling  pendant lamps multilight pendants  chandeliers
+lighting,ceiling  pendant lamps,pendant lighting,359.0,,home,decor,lighting,,lighting ceiling  pendant lamps pendant lighting
+lighting,ceiling fans,ceiling fans,30.0,,home,decor,lighting,,lighting ceiling fans ceiling fans
+lighting,floor lamps,adjustable floor lamps,29.0,,baby gear,floor seats  loungers,,,lighting floor lamps adjustable floor lamps
+lighting,floor lamps,arc floor lamps,6.0,,baby gear,floor seats  loungers,,,lighting floor lamps arc floor lamps
+lighting,floor lamps,column floor lamps,10.0,,baby gear,floor seats  loungers,,,lighting floor lamps column floor lamps
+lighting,floor lamps,floor lamps with shades,29.0,,baby gear,floor seats  loungers,,,lighting floor lamps floor lamps with shades
+lighting,floor lamps,globe floor lamps,20.0,,baby gear,floor seats  loungers,,,lighting floor lamps globe floor lamps
+lighting,floor lamps,multilight floor lamps,3.0,,baby gear,floor seats  loungers,,,lighting floor lamps multilight floor lamps
+lighting,floor lamps,reading floor lamps,28.0,,baby gear,floor seats  loungers,,,lighting floor lamps reading floor lamps
+lighting,floor lamps,sculptural floor lamps,1.0,,baby gear,floor seats  loungers,,,lighting floor lamps sculptural floor lamps
+lighting,floor lamps,tripod floor lamps,13.0,,baby gear,floor seats  loungers,,,lighting floor lamps tripod floor lamps
+lighting,portable lamps,decor,0.0,,home,decor,lighting,,lighting portable lamps decor
+lighting,portable lamps,floor lamps,0.0,,home,decor,lighting,,lighting portable lamps floor lamps
+lighting,portable lamps,outdoor,3.0,,home,decor,lighting,,lighting portable lamps outdoor
+lighting,portable lamps,outdoor lighting  lanterns,0.0,,home,decor,lighting,,lighting portable lamps outdoor lighting  lanterns
+lighting,portable lamps,table  desk lamps,0.0,,home,decor,lighting,,lighting portable lamps table  desk lamps
+lighting,sconces  wall lamps,column floor lamps,5.0,,home,decor,lighting,,lighting sconces  wall lamps column floor lamps
+lighting,sconces  wall lamps,lanterns  portable lamps,2.0,,home,decor,lighting,,lighting sconces  wall lamps lanterns  portable lamps
+lighting,sconces  wall lamps,lighting cords  shades,8.0,,home,decor,lighting,,lighting sconces  wall lamps lighting cords  shades
+lighting,sconces  wall lamps,wall lamps  sconces,51.0,,home,decor,wall decals stickers,,lighting sconces  wall lamps wall lamps  sconces
+lighting,sconces  wall lamps,wall mounted lighting,30.0,,home,decor,lighting,,lighting sconces  wall lamps wall mounted lighting
+lighting,table  desk lamps,bedside lamps,0.0,,home,decor,lighting,,lighting table  desk lamps bedside lamps
+lighting,table  desk lamps,desk  task lamps,94.0,,office supplies,desk organization,,,lighting table  desk lamps desk  task lamps
+lighting,table  desk lamps,floor lamps,7.0,,home,decor,lighting,,lighting table  desk lamps floor lamps
+lighting,table  desk lamps,lanterns  portable lighting,23.0,,home,decor,lighting,,lighting table  desk lamps lanterns  portable lighting
+lighting,table  desk lamps,lighting cords  shades,2.0,,home,decor,lighting,,lighting table  desk lamps lighting cords  shades
+lighting,table  desk lamps,table lamps,155.0,,home,decor,lighting,,lighting table  desk lamps table lamps
+lighting,table  desk lamps,wall lamps  sconces,4.0,,home,decor,lighting,,lighting table  desk lamps wall lamps  sconces
+lighting,table  desk lamps,wallmounted lighting,2.0,,home,decor,lighting,,lighting table  desk lamps wallmounted lighting
+lighting,outdoor lighting,outdoor lighting,47.0,,home,decor,lighting,,lighting outdoor lighting outdoor lighting
+lighting,outdoor lighting,outdoor accessories  decor,,,home,decor,lighting,,lighting outdoor lighting outdoor accessories  decor
+outdoor,,,1189.0,,accessories,,,,outdoor  
+outdoor,indooroutdoor rugs,floor mats,0.0,,home,decor,rugs,,outdoor indooroutdoor rugs floor mats
+outdoor,indooroutdoor rugs,indooroutdoor rugs,10.0,,home,decor,rugs,,outdoor indooroutdoor rugs indooroutdoor rugs
+outdoor,indooroutdoor rugs,rug pads,0.0,,home,decor,rugs,,outdoor indooroutdoor rugs rug pads
+outdoor,outdoor accessories,bathroom accessories,0.0,,accessories,,,,outdoor outdoor accessories bathroom accessories
+outdoor,outdoor accessories,fire pits  patio heaters,0.0,,toys,inflatable toys  ball pits,ball pits,,outdoor outdoor accessories fire pits  patio heaters
+outdoor,outdoor accessories,outdoor accessories,0.0,,accessories,,,,outdoor outdoor accessories outdoor accessories
+outdoor,outdoor accessories,outdoor decor,0.0,,home,decor,,,outdoor outdoor accessories outdoor decor
+outdoor,outdoor accessories,outdoor furniture covers,0.0,,home,furniture,,,outdoor outdoor accessories outdoor furniture covers
+outdoor,outdoor accessories,outdoor hardware  accessories,0.0,,accessories,,,,outdoor outdoor accessories outdoor hardware  accessories
+outdoor,outdoor accessories,outdoor lanterns,0.0,,accessories,,,,outdoor outdoor accessories outdoor lanterns
+outdoor,outdoor accessories,outdoor mats,0.0,,toys,board  party games,game mats,,outdoor outdoor accessories outdoor mats
+outdoor,outdoor accessories,outdoor planters  pots,0.0,,toys,pretend play,toy pots  pans,,outdoor outdoor accessories outdoor planters  pots
+outdoor,outdoor accessories,outdoor seat pads cushions  pillows,0.0,,home,bedding and linen,pillows,,outdoor outdoor accessories outdoor seat pads cushions  pillows
+outdoor,outdoor accessories,seat pads cushions  slipcovers,0.0,,electronics,computers  accessories,mouse pads,,outdoor outdoor accessories seat pads cushions  slipcovers
+outdoor,outdoor furniture,adirondack  deck chairs,41.0,,home,furniture,chairs and sofas,,outdoor outdoor furniture adirondack  deck chairs
+outdoor,outdoor furniture,heated outdoor furniture,6.0,,home,furniture,,,outdoor outdoor furniture heated outdoor furniture
+outdoor,outdoor furniture,outdoor accessories  decor,47.0,,home,decor,,,outdoor outdoor furniture outdoor accessories  decor
+outdoor,outdoor furniture,outdoor benches,74.0,,home,furniture,,,outdoor outdoor furniture outdoor benches
+outdoor,outdoor furniture,outdoor chaise lounges,40.0,,home,furniture,,,outdoor outdoor furniture outdoor chaise lounges
+outdoor,outdoor furniture,outdoor dining chairs,115.0,,home,furniture,chairs and sofas,,outdoor outdoor furniture outdoor dining chairs
+outdoor,outdoor furniture,outdoor dining furniture,47.0,,home,furniture,,,outdoor outdoor furniture outdoor dining furniture
+outdoor,outdoor furniture,outdoor dining tables,97.0,,home,furniture,changing tables,,outdoor outdoor furniture outdoor dining tables
+outdoor,outdoor furniture,outdoor furniture covers,5.0,,home,furniture,,,outdoor outdoor furniture outdoor furniture covers
+outdoor,outdoor furniture,outdoor furniture sets,52.0,,home,furniture,,,outdoor outdoor furniture outdoor furniture sets
+outdoor,outdoor furniture,outdoor lounge chairs,169.0,,home,furniture,chairs and sofas,,outdoor outdoor furniture outdoor lounge chairs
+outdoor,outdoor furniture,outdoor ottomans  footstools,79.0,,home,furniture,,,outdoor outdoor furniture outdoor ottomans  footstools
+outdoor,outdoor furniture,outdoor side  coffee tables,152.0,,home,furniture,side tables,,outdoor outdoor furniture outdoor side  coffee tables
+outdoor,outdoor furniture,outdoor sofas  sectionals,104.0,,home,furniture,chairs and sofas,,outdoor outdoor furniture outdoor sofas  sectionals
+outdoor,outdoor furniture,outdoor stools,35.0,,home,furniture,,,outdoor outdoor furniture outdoor stools
+outdoor,outdoor furniture,outdoor storage  organization,6.0,,home,furniture,storage,,outdoor outdoor furniture outdoor storage  organization
+outdoor,outdoor furniture,patio umbrellas,0.0,,accessories,umbrellas,,,outdoor outdoor furniture patio umbrellas
+outdoor,outdoor lighting,outdoor accessories  decor,0.0,,home,decor,lighting,,outdoor outdoor lighting outdoor accessories  decor
+outdoor,outdoor lighting,outdoor lighting,0.0,,home,decor,lighting,,outdoor outdoor lighting outdoor lighting
+outdoor,outdoor storage,outdoor accessories  decor,50.0,,home,furniture,storage,,outdoor outdoor storage outdoor accessories  decor
+outdoor,outdoor storage,outdoor storage  organization,6.0,,home,furniture,storage,,outdoor outdoor storage outdoor storage  organization
+outdoor,patio umbrellas,outdoor storage  organization,8.0,,accessories,umbrellas,,,outdoor patio umbrellas outdoor storage  organization
+outdoor,patio umbrellas,patio umbrellas,46.0,,accessories,umbrellas,,,outdoor patio umbrellas patio umbrellas
+rugs,,,539.0,,home,decor,rugs,,rugs  
+rugs,area rugs,,87.0,,home,decor,rugs,,rugs area rugs 
+rugs,floor mats,,2.0,,home,decor,rugs,,rugs floor mats 
+rugs,indooroutdoor rugs,,0.0,,home,decor,rugs,,rugs indooroutdoor rugs 
+rugs,rug pads,,7.0,,home,decor,rugs,,rugs rug pads 
+rugs,sheepskin  hide rugs,,15.0,,home,decor,rugs,,rugs sheepskin  hide rugs 
+rugs,textured rugs,,33.0,,home,decor,rugs,,rugs textured rugs 
+rugs,tufted rugs,,180.0,,home,decor,rugs,,rugs tufted rugs 
+rugs,woven  flat weave rugs,,215.0,,home,decor,rugs,,rugs woven  flat weave rugs 
+storage,,,326.0,,home,furniture,storage,,storage  
+storage,chests dressers  armoires,armoires,11.0,,home,furniture,dressers,,storage chests dressers  armoires armoires
+storage,chests dressers  armoires,chests  dressers,46.0,,home,furniture,dressers,,storage chests dressers  armoires chests  dressers
+storage,chests dressers  armoires,freestanding shelving  storage,0.0,,home,furniture,storage,,storage chests dressers  armoires freestanding shelving  storage
+storage,closet storage,boxes baskets  crates,0.0,,home,furniture,storage,,storage closet storage boxes baskets  crates
+storage,closet storage,freestanding shelving  storage,0.0,,home,furniture,storage,,storage closet storage freestanding shelving  storage
+storage,closet storage,step stools,0.0,,home,furniture,storage,,storage closet storage step stools
+storage,closet storage,wallmounted shelving  storage,0.0,,home,furniture,storage,,storage closet storage wallmounted shelving  storage
+storage,credenzas buffets  sideboards,credenzas  sideboards,21.0,,home,furniture,storage,,storage credenzas buffets  sideboards credenzas  sideboards
+storage,credenzas buffets  sideboards,freestanding shelving  storage,10.0,,home,furniture,storage,,storage credenzas buffets  sideboards freestanding shelving  storage
+storage,credenzas buffets  sideboards,media storage,4.0,,home,furniture,storage,,storage credenzas buffets  sideboards media storage
+storage,credenzas buffets  sideboards,office  file storage,0.0,,home,furniture,storage,,storage credenzas buffets  sideboards office  file storage
+storage,credenzas buffets  sideboards,storage benches,1.0,,home,furniture,storage,,storage credenzas buffets  sideboards storage benches
+storage,credenzas buffets  sideboards,storage consoles,0.0,,home,furniture,storage,,storage credenzas buffets  sideboards storage consoles
+storage,credenzas buffets  sideboards,wallmounted shelving  storage,2.0,,home,furniture,storage,,storage credenzas buffets  sideboards wallmounted shelving  storage
+storage,home organization,book storage  organization,,,home,organization,,,storage home organization book storage  organization
+storage,home organization,boxes baskets  crates,0.0,,home,organization,baskets and bins,,storage home organization boxes baskets  crates
+storage,home organization,folding screens  room dividers,0.0,,home,organization,,,storage home organization folding screens  room dividers
+storage,home organization,freestanding shelving  storage,0.0,,home,furniture,storage,,storage home organization freestanding shelving  storage
+storage,home organization,hanging racks  hooks,0.0,,home,organization,,,storage home organization hanging racks  hooks
+storage,home organization,office organization  storage,0.0,,home,organization,,,storage home organization office organization  storage
+storage,home organization,step stools,0.0,,home,organization,,,storage home organization step stools
+storage,home organization,trays  catchalls,0.0,,home,organization,,,storage home organization trays  catchalls
+storage,home organization,wallmounted organization,,,home,organization,,,storage home organization wallmounted organization
+storage,media storage,,101.0,,home,furniture,storage,,storage media storage 
+storage,shelves  bookcases,bar carts  trolleys,0.0,,home,furniture,storage,,storage shelves  bookcases bar carts  trolleys
+storage,shelves  bookcases,coat racks,0.0,,home,furniture,storage,,storage shelves  bookcases coat racks
+storage,shelves  bookcases,credenzas  sideboards,0.0,,home,furniture,storage,,storage shelves  bookcases credenzas  sideboards
+storage,shelves  bookcases,entryway storage  organization,0.0,,home,furniture,storage,,storage shelves  bookcases entryway storage  organization
+storage,shelves  bookcases,freestanding shelving  storage,7.0,,home,furniture,storage,,storage shelves  bookcases freestanding shelving  storage
+storage,shelves  bookcases,office  file storage,0.0,,home,furniture,storage,,storage shelves  bookcases office  file storage
+storage,shelves  bookcases,office shelving,0.0,,home,furniture,storage,,storage shelves  bookcases office shelving
+storage,shelves  bookcases,wallmounted shelving  storage,7.0,,home,furniture,storage,,storage shelves  bookcases wallmounted shelving  storage
+storage,shelving systems,coat racks,3.0,,home,furniture,storage,,storage shelving systems coat racks
+storage,shelving systems,entryway storage  organization,10.0,,home,furniture,storage,,storage shelving systems entryway storage  organization
+storage,shelving systems,freestanding shelving  storage,34.0,,home,furniture,storage,,storage shelving systems freestanding shelving  storage
+storage,shelving systems,office  file storage,0.0,,home,furniture,storage,,storage shelving systems office  file storage
+storage,shelving systems,office shelving,33.0,,home,furniture,storage,,storage shelving systems office shelving
+storage,shelving systems,storage accessories,2.0,,home,furniture,storage,,storage shelving systems storage accessories
+storage,shelving systems,wallmounted shelving  storage,34.0,,home,furniture,storage,,storage shelving systems wallmounted shelving  storage
