@@ -3,10 +3,10 @@ import os
 
 def check_and_create_folders():
     # Use the home directory or a user-specific directory to avoid permission issues
-    #base_dir = Path.home() / "ml_taxonomy_mapping"
+    base_dir = Path.home() / "ml_taxonomy_mapping" / "python_model"
     
     # If you want to use a directory within the current directory instead:
-    base_dir = Path(__file__).parent / "ml_taxonomy_mapping"
+    #base_dir = Path(__file__).parent / "ml_taxonomy_mapping"
 
     # Ensure the base directory exists first
     base_dir.mkdir(parents=True, exist_ok=True)
