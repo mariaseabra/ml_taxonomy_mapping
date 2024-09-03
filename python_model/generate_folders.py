@@ -6,7 +6,7 @@ def check_and_create_folders():
     #base_dir = Path.home() / "ml_taxonomy_mapping" / "python_model"
     
     # If you want to use a directory within the current directory instead:
-    base_dir = Path(__file__).parent 
+    base_dir = Path(__file__).parent
 
     # Ensure the base directory exists first
     base_dir.mkdir(parents=True, exist_ok=True)
