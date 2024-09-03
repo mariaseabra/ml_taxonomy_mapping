@@ -41,4 +41,4 @@ def generate_base_taxonomy_embeddings(input_file_path, output_file_path):
     print(f'Base taxonomy embeddings saved to {output_file_path}')
 
 # Generate the embeddings for the base taxonomy
-generate_base_taxonomy_embeddings('base_taxonomy/Taxonomy.csv', 'base_taxonomy_embeddings.csv')
+generate_base_taxonomy_embeddings('python_model/base_taxonomy/Taxonomy.csv', 'base_taxonomy_embeddings.csv')
